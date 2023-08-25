@@ -1,4 +1,4 @@
-# Hello there!, soy Bryan 👋  Full Stack Developer Jr. \ Bachiller en Ing.Electrónica 
+# Hello there!, soy Bryan 👋  Full Stack Developer Jr.
 
 ## Sobre mí: 
 Apasionado de la tecnología, Full Stack Developer Jr. y Bachiller en Ing.Electrónica. Involucrado con un aprendizaje constante y el desarrollo de habilidades para afrontar cualquier desafío. Mi objetivo es la mejora y optimización continua de todos los proyectos y actividades en las que estoy involucrado.
